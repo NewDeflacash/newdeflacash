@@ -1,0 +1,5 @@
+Building NewDeflacash
+================
+
+See doc/build-*.md for instructions on building the various
+elements of the NewDeflacash reference implementation of NewDeflacash.
